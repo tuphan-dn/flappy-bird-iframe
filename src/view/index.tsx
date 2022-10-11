@@ -12,7 +12,7 @@ const View = () => {
       appId={appId}
       src={'https://playcanv.as/p/2OlkUaxF/'}
       title="Flappy Bird: A technical demo of games on Senhub"
-      wallet={window.sentre.wallet}
+      wallet={window.sentre.solana}
     />
   )
 }
